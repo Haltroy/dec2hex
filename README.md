@@ -6,10 +6,7 @@ A command-line tool for converting multiple decimal values to hexadecimal (or vi
 
 - Output to a file and/or print out the result
 - Input from either a file or a string.
-- Cross-platform and multi-language console application:
-   - English
-   - Turkish
-   - More Soon!
+- Cross-platform and multi-language console application: See [this document](https://github.com/Haltroy/dec2hex/blob/main/LANGS.md) for a full list of supported languages and languages that will be added in future.
 
 ## Requirements
 
